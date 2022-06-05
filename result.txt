@@ -1,0 +1,1207 @@
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 09:33:42		Current epoch:0
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	0,	0
+Recall@10:	17.6470	MRR@10:	4.22268	Epoch:	0,	0
+Recall@20:	23.5294	MRR@20:	4.58128	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 09:33:44		Current epoch:1
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	1,	1
+Recall@10:	17.6470	MRR@10:	4.22268	Epoch:	1,	0
+Recall@20:	23.5294	MRR@20:	4.58128	Epoch:	1,	0
+--------------------------------------------------------
+2021-09-27 09:33:45		Current epoch:2
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	2,	2
+Recall@10:	17.6470	MRR@10:	4.22268	Epoch:	2,	0
+Recall@20:	23.5294	MRR@20:	4.58128	Epoch:	2,	0
+--------------------------------------------------------
+2021-09-27 09:33:46		Current epoch:3
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	3,	3
+Recall@10:	17.6470	MRR@10:	4.22268	Epoch:	3,	0
+Recall@20:	23.5294	MRR@20:	4.58128	Epoch:	3,	0
+--------------------------------------------------------
+2021-09-27 09:33:47		Current epoch:4
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	4,	4
+Recall@10:	17.6470	MRR@10:	4.22268	Epoch:	4,	0
+Recall@20:	23.5294	MRR@20:	4.58128	Epoch:	4,	0
+--------------------------------------------------------
+2021-09-27 09:33:48		Current epoch:5
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	5,	5
+Recall@10:	17.6470	MRR@10:	4.22268	Epoch:	5,	0
+Recall@20:	23.5294	MRR@20:	4.58128	Epoch:	5,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 09:38:55		Current epoch:0
+Best Result:
+Recall@5:	7.84313	MRR@5:	6.53594	Epoch:	0,	0
+Recall@10:	7.84313	MRR@10:	6.53594	Epoch:	0,	0
+Recall@20:	15.6862	MRR@20:	7.03884	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 09:38:56		Current epoch:1
+Best Result:
+Recall@5:	7.84313	MRR@5:	6.53594	Epoch:	1,	0
+Recall@10:	9.80392	MRR@10:	6.53594	Epoch:	1,	0
+Recall@20:	15.6862	MRR@20:	7.03884	Epoch:	1,	0
+--------------------------------------------------------
+2021-09-27 09:38:57		Current epoch:2
+Best Result:
+Recall@5:	7.84313	MRR@5:	6.53594	Epoch:	2,	0
+Recall@10:	9.80392	MRR@10:	6.53594	Epoch:	2,	0
+Recall@20:	15.6862	MRR@20:	7.03884	Epoch:	2,	0
+--------------------------------------------------------
+2021-09-27 09:38:58		Current epoch:3
+Best Result:
+Recall@5:	7.84313	MRR@5:	6.53594	Epoch:	3,	0
+Recall@10:	9.80392	MRR@10:	6.53594	Epoch:	3,	0
+Recall@20:	15.6862	MRR@20:	7.03884	Epoch:	3,	0
+--------------------------------------------------------
+2021-09-27 09:38:59		Current epoch:4
+Best Result:
+Recall@5:	7.84313	MRR@5:	6.53594	Epoch:	4,	0
+Recall@10:	9.80392	MRR@10:	6.53594	Epoch:	4,	0
+Recall@20:	15.6862	MRR@20:	7.03884	Epoch:	4,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 10:03:20		Current epoch:0
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	0,	0
+Recall@10:	15.6862	MRR@10:	3.82352	Epoch:	0,	0
+Recall@20:	27.4509	MRR@20:	4.64903	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 10:03:21		Current epoch:1
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	1,	1
+Recall@10:	15.6862	MRR@10:	3.82352	Epoch:	0,	0
+Recall@20:	31.3725	MRR@20:	4.81941	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-27 10:03:22		Current epoch:2
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	2,	2
+Recall@10:	15.6862	MRR@10:	3.82352	Epoch:	0,	0
+Recall@20:	31.3725	MRR@20:	4.81941	Epoch:	2,	1
+--------------------------------------------------------
+2021-09-27 10:03:23		Current epoch:3
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	3,	3
+Recall@10:	15.6862	MRR@10:	3.82352	Epoch:	0,	0
+Recall@20:	31.3725	MRR@20:	4.81941	Epoch:	3,	1
+--------------------------------------------------------
+2021-09-27 10:03:24		Current epoch:4
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.45098	Epoch:	4,	4
+Recall@10:	15.6862	MRR@10:	3.82352	Epoch:	0,	0
+Recall@20:	31.3725	MRR@20:	4.81941	Epoch:	4,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 10:06:45		Current epoch:0
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.82352	Epoch:	0,	0
+Recall@10:	17.6470	MRR@10:	4.23747	Epoch:	0,	0
+Recall@20:	23.5294	MRR@20:	4.56642	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 10:06:46		Current epoch:1
+Best Result:
+Recall@5:	13.7254	MRR@5:	4.47712	Epoch:	1,	1
+Recall@10:	17.6470	MRR@10:	4.86928	Epoch:	1,	1
+Recall@20:	23.5294	MRR@20:	5.02011	Epoch:	0,	1
+--------------------------------------------------------
+2021-09-27 10:06:47		Current epoch:2
+Best Result:
+Recall@5:	13.7254	MRR@5:	4.47712	Epoch:	2,	2
+Recall@10:	17.6470	MRR@10:	4.86928	Epoch:	2,	2
+Recall@20:	23.5294	MRR@20:	5.02011	Epoch:	0,	2
+--------------------------------------------------------
+2021-09-27 10:06:48		Current epoch:3
+Best Result:
+Recall@5:	13.7254	MRR@5:	4.47712	Epoch:	3,	3
+Recall@10:	17.6470	MRR@10:	4.86928	Epoch:	3,	3
+Recall@20:	23.5294	MRR@20:	5.02011	Epoch:	0,	3
+--------------------------------------------------------
+2021-09-27 10:06:49		Current epoch:4
+Best Result:
+Recall@5:	13.7254	MRR@5:	4.47712	Epoch:	4,	4
+Recall@10:	17.6470	MRR@10:	4.86928	Epoch:	4,	4
+Recall@20:	23.5294	MRR@20:	5.02011	Epoch:	0,	4
+--------------------------------------------------------
+2021-09-27 10:06:50		Current epoch:5
+Best Result:
+Recall@5:	13.7254	MRR@5:	4.47712	Epoch:	5,	5
+Recall@10:	17.6470	MRR@10:	4.86928	Epoch:	5,	5
+Recall@20:	23.5294	MRR@20:	5.02011	Epoch:	0,	5
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 12:09:22		Current epoch:0
+Best Result:
+Recall@5:	3.92156	MRR@5:	0.78431	Epoch:	0,	0
+Recall@10:	9.80392	MRR@10:	1.55462	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	1.80361	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 12:09:23		Current epoch:1
+Best Result:
+Recall@5:	3.92156	MRR@5:	0.88235	Epoch:	1,	1
+Recall@10:	9.80392	MRR@10:	1.55462	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	1.83823	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-27 12:09:24		Current epoch:2
+Best Result:
+Recall@5:	5.88235	MRR@5:	1.27450	Epoch:	2,	2
+Recall@10:	9.80392	MRR@10:	1.55462	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	1.91844	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-27 12:09:26		Current epoch:3
+Best Result:
+Recall@5:	5.88235	MRR@5:	1.27450	Epoch:	3,	3
+Recall@10:	9.80392	MRR@10:	1.55462	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	1.91844	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-27 12:09:27		Current epoch:4
+Best Result:
+Recall@5:	5.88235	MRR@5:	1.27450	Epoch:	4,	4
+Recall@10:	9.80392	MRR@10:	1.55462	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	1.91844	Epoch:	4,	4
+--------------------------------------------------------
+2021-09-27 12:09:28		Current epoch:5
+Best Result:
+Recall@5:	5.88235	MRR@5:	1.27450	Epoch:	5,	5
+Recall@10:	9.80392	MRR@10:	1.55462	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	1.91844	Epoch:	5,	5
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 12:09:33		Current epoch:0
+Best Result:
+Recall@5:	19.6078	MRR@5:	7.51633	Epoch:	0,	0
+Recall@10:	27.4509	MRR@10:	8.64612	Epoch:	0,	0
+Recall@20:	35.2941	MRR@20:	9.11570	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 12:09:34		Current epoch:1
+Best Result:
+Recall@5:	21.5686	MRR@5:	8.88888	Epoch:	1,	1
+Recall@10:	27.4509	MRR@10:	9.61017	Epoch:	1,	1
+Recall@20:	35.2941	MRR@20:	10.1298	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-27 12:09:35		Current epoch:2
+Best Result:
+Recall@5:	21.5686	MRR@5:	8.88888	Epoch:	2,	2
+Recall@10:	27.4509	MRR@10:	9.61017	Epoch:	2,	2
+Recall@20:	35.2941	MRR@20:	10.1298	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-27 12:09:37		Current epoch:3
+Best Result:
+Recall@5:	21.5686	MRR@5:	8.88888	Epoch:	3,	3
+Recall@10:	27.4509	MRR@10:	9.61017	Epoch:	3,	3
+Recall@20:	35.2941	MRR@20:	10.1298	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-27 12:09:38		Current epoch:4
+Best Result:
+Recall@5:	21.5686	MRR@5:	8.88888	Epoch:	4,	4
+Recall@10:	27.4509	MRR@10:	9.61017	Epoch:	4,	4
+Recall@20:	35.2941	MRR@20:	10.1298	Epoch:	4,	4
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 12:09:43		Current epoch:0
+Best Result:
+Recall@5:	9.80392	MRR@5:	3.72549	Epoch:	0,	0
+Recall@10:	11.7647	MRR@10:	3.92156	Epoch:	0,	0
+Recall@20:	21.5686	MRR@20:	4.54637	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 12:09:44		Current epoch:1
+Best Result:
+Recall@5:	9.80392	MRR@5:	3.72549	Epoch:	0,	0
+Recall@10:	11.7647	MRR@10:	3.92156	Epoch:	1,	0
+Recall@20:	21.5686	MRR@20:	4.54637	Epoch:	1,	0
+--------------------------------------------------------
+2021-09-27 12:09:45		Current epoch:2
+Best Result:
+Recall@5:	9.80392	MRR@5:	3.72549	Epoch:	0,	0
+Recall@10:	11.7647	MRR@10:	3.92156	Epoch:	2,	0
+Recall@20:	21.5686	MRR@20:	4.54637	Epoch:	2,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 12:11:26		Current epoch:0
+Best Result:
+Recall@5:	7.84313	MRR@5:	2.67973	Epoch:	0,	0
+Recall@10:	17.6470	MRR@10:	3.88888	Epoch:	0,	0
+Recall@20:	27.4509	MRR@20:	4.67956	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 12:11:27		Current epoch:1
+Best Result:
+Recall@5:	9.80392	MRR@5:	4.73856	Epoch:	1,	1
+Recall@10:	19.6078	MRR@10:	6.15079	Epoch:	1,	1
+Recall@20:	27.4509	MRR@20:	6.80667	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-27 12:11:28		Current epoch:2
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.06535	Epoch:	2,	2
+Recall@10:	21.5686	MRR@10:	6.67366	Epoch:	2,	2
+Recall@20:	27.4509	MRR@20:	7.13872	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-27 12:11:30		Current epoch:3
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.06535	Epoch:	3,	3
+Recall@10:	21.5686	MRR@10:	6.67366	Epoch:	3,	3
+Recall@20:	27.4509	MRR@20:	7.13872	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-27 12:11:31		Current epoch:4
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.06535	Epoch:	4,	4
+Recall@10:	21.5686	MRR@10:	6.67366	Epoch:	4,	4
+Recall@20:	27.4509	MRR@20:	7.13872	Epoch:	4,	4
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 12:11:36		Current epoch:0
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	0,	0
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	23.5294	MRR@20:	9.25070	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 12:11:37		Current epoch:1
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	1,	1
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-27 12:11:38		Current epoch:2
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	2,	2
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	2,	1
+--------------------------------------------------------
+2021-09-27 12:11:40		Current epoch:3
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	3,	3
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	3,	1
+--------------------------------------------------------
+2021-09-27 12:11:41		Current epoch:4
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	4,	4
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	4,	1
+--------------------------------------------------------
+2021-09-27 12:11:42		Current epoch:5
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	5,	5
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	5,	1
+--------------------------------------------------------
+2021-09-27 12:11:44		Current epoch:6
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	6,	6
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	6,	1
+--------------------------------------------------------
+2021-09-27 12:11:45		Current epoch:7
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	7,	7
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	7,	1
+--------------------------------------------------------
+2021-09-27 12:11:46		Current epoch:8
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	8,	8
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	8,	1
+--------------------------------------------------------
+2021-09-27 12:11:47		Current epoch:9
+Best Result:
+Recall@5:	11.7647	MRR@5:	8.23529	Epoch:	9,	9
+Recall@10:	15.6862	MRR@10:	8.69825	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	9.26113	Epoch:	9,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-27 12:11:52		Current epoch:0
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.39215	Epoch:	0,	0
+Recall@10:	21.5686	MRR@10:	6.99502	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	7.24904	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-27 12:11:53		Current epoch:1
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.78431	Epoch:	1,	1
+Recall@10:	21.5686	MRR@10:	7.35760	Epoch:	1,	1
+Recall@20:	25.4901	MRR@20:	7.57819	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-27 12:11:55		Current epoch:2
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.78431	Epoch:	2,	2
+Recall@10:	21.5686	MRR@10:	7.35760	Epoch:	2,	1
+Recall@20:	25.4901	MRR@20:	7.57819	Epoch:	2,	1
+--------------------------------------------------------
+2021-09-27 12:11:56		Current epoch:3
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.78431	Epoch:	3,	3
+Recall@10:	21.5686	MRR@10:	7.35760	Epoch:	3,	1
+Recall@20:	25.4901	MRR@20:	7.57819	Epoch:	3,	1
+--------------------------------------------------------
+2021-09-27 12:11:57		Current epoch:4
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.78431	Epoch:	4,	4
+Recall@10:	21.5686	MRR@10:	7.35760	Epoch:	4,	1
+Recall@20:	25.4901	MRR@20:	7.57819	Epoch:	4,	1
+--------------------------------------------------------
+2021-09-27 12:11:58		Current epoch:5
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.78431	Epoch:	5,	5
+Recall@10:	21.5686	MRR@10:	7.35760	Epoch:	5,	1
+Recall@20:	25.4901	MRR@20:	7.57819	Epoch:	5,	1
+--------------------------------------------------------
+2021-09-27 12:12:00		Current epoch:6
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.78431	Epoch:	6,	6
+Recall@10:	21.5686	MRR@10:	7.35760	Epoch:	6,	1
+Recall@20:	25.4901	MRR@20:	7.57819	Epoch:	6,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 15:11:41		Current epoch:0
+Best Result:
+Recall@5:	3.92156	MRR@5:	1.14379	Epoch:	0,	0
+Recall@10:	11.7647	MRR@10:	2.02069	Epoch:	0,	0
+Recall@20:	21.5686	MRR@20:	2.67097	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 15:11:42		Current epoch:1
+Best Result:
+Recall@5:	5.88235	MRR@5:	2.28758	Epoch:	1,	1
+Recall@10:	11.7647	MRR@10:	2.92483	Epoch:	1,	1
+Recall@20:	23.5294	MRR@20:	3.74094	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 15:11:43		Current epoch:2
+Best Result:
+Recall@5:	5.88235	MRR@5:	2.28758	Epoch:	2,	2
+Recall@10:	11.7647	MRR@10:	2.95985	Epoch:	2,	2
+Recall@20:	25.4901	MRR@20:	3.88477	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 15:11:45		Current epoch:3
+Best Result:
+Recall@5:	5.88235	MRR@5:	2.28758	Epoch:	3,	3
+Recall@10:	11.7647	MRR@10:	2.95985	Epoch:	3,	3
+Recall@20:	25.4901	MRR@20:	3.89050	Epoch:	3,	3
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 16:57:43		Current epoch:0
+Best Result:
+Recall@5:	11.7647	MRR@5:	7.25490	Epoch:	0,	0
+Recall@10:	17.6470	MRR@10:	7.99564	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	8.14647	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 16:57:44		Current epoch:1
+Best Result:
+Recall@5:	13.7254	MRR@5:	9.70588	Epoch:	1,	1
+Recall@10:	17.6470	MRR@10:	10.2287	Epoch:	1,	1
+Recall@20:	19.6078	MRR@20:	10.3921	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 16:57:46		Current epoch:2
+Best Result:
+Recall@5:	13.7254	MRR@5:	10.2941	Epoch:	1,	2
+Recall@10:	17.6470	MRR@10:	11.1437	Epoch:	2,	2
+Recall@20:	19.6078	MRR@20:	11.3220	Epoch:	2,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 17:04:46		Current epoch:0
+Best Result:
+Recall@5:	13.7254	MRR@5:	4.86928	Epoch:	0,	0
+Recall@10:	23.5294	MRR@10:	6.17024	Epoch:	0,	0
+Recall@20:	33.3333	MRR@20:	6.85652	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 17:04:47		Current epoch:1
+Best Result:
+Recall@5:	17.6470	MRR@5:	6.33986	Epoch:	1,	1
+Recall@10:	25.4901	MRR@10:	7.27668	Epoch:	1,	1
+Recall@20:	33.3333	MRR@20:	7.65463	Epoch:	0,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 18:50:48		Current epoch:0
+Best Result:
+Recall@5:	1.96078	MRR@5:	0.65359	Epoch:	0,	0
+Recall@10:	7.84313	MRR@10:	1.45658	Epoch:	0,	0
+Recall@20:	9.80392	MRR@20:	1.59663	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 18:50:50		Current epoch:1
+Best Result:
+Recall@5:	1.96078	MRR@5:	0.65359	Epoch:	1,	1
+Recall@10:	7.84313	MRR@10:	1.45658	Epoch:	0,	0
+Recall@20:	9.80392	MRR@20:	1.59663	Epoch:	1,	0
+--------------------------------------------------------
+2021-09-28 18:50:51		Current epoch:2
+Best Result:
+Recall@5:	1.96078	MRR@5:	0.65359	Epoch:	2,	2
+Recall@10:	7.84313	MRR@10:	1.45658	Epoch:	0,	0
+Recall@20:	9.80392	MRR@20:	1.59663	Epoch:	2,	0
+--------------------------------------------------------
+2021-09-28 18:50:52		Current epoch:3
+Best Result:
+Recall@5:	1.96078	MRR@5:	0.65359	Epoch:	3,	3
+Recall@10:	7.84313	MRR@10:	1.45658	Epoch:	0,	0
+Recall@20:	11.7647	MRR@20:	1.65266	Epoch:	3,	3
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 18:58:10		Current epoch:0
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	0,	0
+Recall@10:	7.84313	MRR@10:	4.79302	Epoch:	0,	0
+Recall@20:	15.6862	MRR@20:	5.24032	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 18:58:12		Current epoch:1
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	1,	1
+Recall@10:	7.84313	MRR@10:	4.79302	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	5.35345	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 18:58:13		Current epoch:2
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	2,	2
+Recall@10:	7.84313	MRR@10:	4.79302	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	5.35345	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 18:58:14		Current epoch:3
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	3,	3
+Recall@10:	7.84313	MRR@10:	4.79302	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	5.35345	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-28 18:58:15		Current epoch:4
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	4,	4
+Recall@10:	7.84313	MRR@10:	4.79302	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	5.35345	Epoch:	4,	4
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 18:59:14		Current epoch:0
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	0,	0
+Recall@10:	9.80392	MRR@10:	5.14705	Epoch:	0,	0
+Recall@20:	17.6470	MRR@20:	5.61069	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 18:59:15		Current epoch:1
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.90196	Epoch:	1,	1
+Recall@10:	9.80392	MRR@10:	5.55555	Epoch:	1,	1
+Recall@20:	19.6078	MRR@20:	6.14710	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 18:59:17		Current epoch:2
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.90196	Epoch:	2,	2
+Recall@10:	9.80392	MRR@10:	5.55555	Epoch:	2,	2
+Recall@20:	21.5686	MRR@20:	6.24514	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 18:59:18		Current epoch:3
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.90196	Epoch:	3,	3
+Recall@10:	9.80392	MRR@10:	5.55555	Epoch:	3,	3
+Recall@20:	21.5686	MRR@20:	6.24514	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-28 18:59:19		Current epoch:4
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.90196	Epoch:	4,	4
+Recall@10:	9.80392	MRR@10:	5.55555	Epoch:	4,	4
+Recall@20:	21.5686	MRR@20:	6.24514	Epoch:	4,	4
+--------------------------------------------------------
+2021-09-28 18:59:20		Current epoch:5
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.90196	Epoch:	5,	5
+Recall@10:	9.80392	MRR@10:	5.55555	Epoch:	5,	5
+Recall@20:	21.5686	MRR@20:	6.24514	Epoch:	5,	5
+--------------------------------------------------------
+2021-09-28 18:59:21		Current epoch:6
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.90196	Epoch:	6,	6
+Recall@10:	9.80392	MRR@10:	5.55555	Epoch:	6,	6
+Recall@20:	21.5686	MRR@20:	6.24514	Epoch:	6,	6
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:22:40		Current epoch:0
+Best Result:
+Recall@5:	11.7647	MRR@5:	3.33333	Epoch:	0,	0
+Recall@10:	15.6862	MRR@10:	3.90522	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	4.12950	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:22:41		Current epoch:1
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	1,	1
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	1,	1
+Recall@20:	21.5686	MRR@20:	4.57905	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:22:42		Current epoch:2
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	2,	2
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	2,	2
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 19:22:43		Current epoch:3
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	3,	3
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	3,	3
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	3,	2
+--------------------------------------------------------
+2021-09-28 19:22:44		Current epoch:4
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	4,	4
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	4,	4
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	4,	2
+--------------------------------------------------------
+2021-09-28 19:22:45		Current epoch:5
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	5,	5
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	5,	5
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	5,	2
+--------------------------------------------------------
+2021-09-28 19:22:47		Current epoch:6
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	6,	6
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	6,	6
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	6,	2
+--------------------------------------------------------
+2021-09-28 19:22:48		Current epoch:7
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	7,	7
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	7,	7
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	7,	2
+--------------------------------------------------------
+2021-09-28 19:22:49		Current epoch:8
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	8,	8
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	8,	8
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	8,	2
+--------------------------------------------------------
+2021-09-28 19:22:50		Current epoch:9
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	9,	9
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	9,	9
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	9,	2
+--------------------------------------------------------
+2021-09-28 19:22:51		Current epoch:10
+Best Result:
+Recall@5:	13.7254	MRR@5:	3.98692	Epoch:	10,	10
+Recall@10:	15.6862	MRR@10:	4.23202	Epoch:	10,	10
+Recall@20:	23.5294	MRR@20:	4.67709	Epoch:	10,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:23:00		Current epoch:0
+Best Result:
+Recall@5:	3.92156	MRR@5:	2.94117	Epoch:	0,	0
+Recall@10:	9.80392	MRR@10:	3.57298	Epoch:	0,	0
+Recall@20:	29.4117	MRR@20:	4.90180	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:23:01		Current epoch:1
+Best Result:
+Recall@5:	3.92156	MRR@5:	3.92156	Epoch:	1,	1
+Recall@10:	9.80392	MRR@10:	4.69965	Epoch:	1,	1
+Recall@20:	29.4117	MRR@20:	6.08790	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:23:02		Current epoch:2
+Best Result:
+Recall@5:	3.92156	MRR@5:	3.92156	Epoch:	2,	2
+Recall@10:	9.80392	MRR@10:	4.72689	Epoch:	2,	2
+Recall@20:	31.3725	MRR@20:	6.19482	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 19:23:04		Current epoch:3
+Best Result:
+Recall@5:	3.92156	MRR@5:	3.92156	Epoch:	3,	3
+Recall@10:	9.80392	MRR@10:	4.72689	Epoch:	3,	3
+Recall@20:	31.3725	MRR@20:	6.20055	Epoch:	3,	3
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:24:33		Current epoch:0
+Best Result:
+Recall@5:	5.88235	MRR@5:	3.59477	Epoch:	0,	0
+Recall@10:	13.7254	MRR@10:	4.68409	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	5.42705	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:24:34		Current epoch:1
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	1,	1
+Recall@10:	13.7254	MRR@10:	4.97276	Epoch:	1,	1
+Recall@20:	25.4901	MRR@20:	5.71668	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:24:35		Current epoch:2
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	2,	2
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	2,	2
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 19:24:36		Current epoch:3
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	3,	3
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	3,	3
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-28 19:24:37		Current epoch:4
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	4,	4
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	4,	4
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	4,	4
+--------------------------------------------------------
+2021-09-28 19:24:38		Current epoch:5
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	5,	5
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	5,	5
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	5,	5
+--------------------------------------------------------
+2021-09-28 19:24:39		Current epoch:6
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	6,	6
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	6,	6
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	6,	6
+--------------------------------------------------------
+2021-09-28 19:24:40		Current epoch:7
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	7,	7
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	7,	7
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	7,	7
+--------------------------------------------------------
+2021-09-28 19:24:41		Current epoch:8
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.31372	Epoch:	8,	8
+Recall@10:	13.7254	MRR@10:	4.99455	Epoch:	8,	8
+Recall@20:	25.4901	MRR@20:	5.73273	Epoch:	8,	8
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:27:20		Current epoch:0
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.31372	Epoch:	0,	0
+Recall@10:	9.80392	MRR@10:	4.83893	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	5.13252	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:27:22		Current epoch:1
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.35947	Epoch:	1,	1
+Recall@10:	11.7647	MRR@10:	5.57734	Epoch:	1,	1
+Recall@20:	15.6862	MRR@20:	5.84393	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:27:23		Current epoch:2
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.35947	Epoch:	2,	2
+Recall@10:	11.7647	MRR@10:	5.57734	Epoch:	2,	2
+Recall@20:	15.6862	MRR@20:	5.84393	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 19:27:24		Current epoch:3
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.35947	Epoch:	3,	3
+Recall@10:	11.7647	MRR@10:	5.57734	Epoch:	3,	3
+Recall@20:	15.6862	MRR@20:	5.84393	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-28 19:27:25		Current epoch:4
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.35947	Epoch:	4,	4
+Recall@10:	11.7647	MRR@10:	5.57734	Epoch:	4,	4
+Recall@20:	15.6862	MRR@20:	5.84393	Epoch:	4,	4
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:27:50		Current epoch:0
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.08496	Epoch:	0,	0
+Recall@10:	15.6862	MRR@10:	5.02412	Epoch:	0,	0
+Recall@20:	23.5294	MRR@20:	5.54095	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:28:15		Current epoch:0
+Best Result:
+Recall@5:	9.80392	MRR@5:	4.57516	Epoch:	0,	0
+Recall@10:	11.7647	MRR@10:	4.77124	Epoch:	0,	0
+Recall@20:	13.7254	MRR@20:	4.90196	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:28:16		Current epoch:1
+Best Result:
+Recall@5:	9.80392	MRR@5:	4.90196	Epoch:	1,	1
+Recall@10:	13.7254	MRR@10:	5.34313	Epoch:	1,	1
+Recall@20:	19.6078	MRR@20:	5.65455	Epoch:	1,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='gate', valid_portion=0.1, validation=False)
+2021-09-28 19:28:37		Current epoch:0
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.72549	Epoch:	0,	0
+Recall@10:	13.7254	MRR@10:	4.55026	Epoch:	0,	0
+Recall@20:	19.6078	MRR@20:	4.99468	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:28:38		Current epoch:1
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	1
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	1,	1
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:28:39		Current epoch:2
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	2
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	2,	2
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	2,	1
+--------------------------------------------------------
+2021-09-28 19:28:40		Current epoch:3
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	3
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	3,	3
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	3,	1
+--------------------------------------------------------
+2021-09-28 19:28:41		Current epoch:4
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	4
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	4,	4
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	4,	1
+--------------------------------------------------------
+2021-09-28 19:28:42		Current epoch:5
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	5
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	5,	5
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	5,	1
+--------------------------------------------------------
+2021-09-28 19:28:43		Current epoch:6
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	6
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	6,	6
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	6,	1
+--------------------------------------------------------
+2021-09-28 19:28:44		Current epoch:7
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	7
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	7,	7
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	7,	1
+--------------------------------------------------------
+2021-09-28 19:28:45		Current epoch:8
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	8
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	8,	8
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	8,	1
+--------------------------------------------------------
+2021-09-28 19:28:46		Current epoch:9
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	9
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	9,	9
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	9,	1
+--------------------------------------------------------
+2021-09-28 19:28:47		Current epoch:10
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	10
+Recall@10:	15.6862	MRR@10:	5.49253	Epoch:	10,	10
+Recall@20:	21.5686	MRR@20:	5.82845	Epoch:	10,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-09-28 19:29:24		Current epoch:0
+Best Result:
+Recall@5:	15.6862	MRR@5:	10.8496	Epoch:	0,	0
+Recall@10:	23.5294	MRR@10:	11.7888	Epoch:	0,	0
+Recall@20:	35.2941	MRR@20:	12.5453	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:29:25		Current epoch:1
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	1,	1
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	1,	1
+Recall@20:	39.2156	MRR@20:	14.2936	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:29:26		Current epoch:2
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	2,	2
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	2,	2
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 19:29:27		Current epoch:3
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	3,	3
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	3,	3
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-28 19:29:28		Current epoch:4
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	4,	4
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	4,	4
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	4,	4
+--------------------------------------------------------
+2021-09-28 19:29:29		Current epoch:5
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	5,	5
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	5,	5
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	5,	5
+--------------------------------------------------------
+2021-09-28 19:29:30		Current epoch:6
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	6,	6
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	6,	6
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	6,	6
+--------------------------------------------------------
+2021-09-28 19:29:31		Current epoch:7
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	7,	7
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	7,	7
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	7,	7
+--------------------------------------------------------
+2021-09-28 19:29:32		Current epoch:8
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.1568	Epoch:	8,	8
+Recall@10:	25.4901	MRR@10:	13.3737	Epoch:	8,	8
+Recall@20:	39.2156	MRR@20:	14.3123	Epoch:	8,	8
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='cat', valid_portion=0.1, validation=False)
+2021-09-28 19:30:39		Current epoch:0
+Best Result:
+Recall@5:	1.96078	MRR@5:	0.65359	Epoch:	0,	0
+Recall@10:	11.7647	MRR@10:	1.78104	Epoch:	0,	0
+Recall@20:	17.6470	MRR@20:	2.24524	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:30:41		Current epoch:1
+Best Result:
+Recall@5:	1.96078	MRR@5:	0.98039	Epoch:	1,	1
+Recall@10:	11.7647	MRR@10:	2.11017	Epoch:	0,	1
+Recall@20:	17.6470	MRR@20:	2.74271	Epoch:	1,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=150, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-09-28 19:30:52		Current epoch:0
+Best Result:
+Recall@5:	33.3333	MRR@5:	25.0653	Epoch:	0,	0
+Recall@10:	35.2941	MRR@10:	25.3921	Epoch:	0,	0
+Recall@20:	47.0588	MRR@20:	26.1058	Epoch:	0,	0
+--------------------------------------------------------
+2021-09-28 19:30:53		Current epoch:1
+Best Result:
+Recall@5:	33.3333	MRR@5:	25.8823	Epoch:	1,	1
+Recall@10:	37.2549	MRR@10:	26.4542	Epoch:	1,	1
+Recall@20:	47.0588	MRR@20:	27.1400	Epoch:	1,	1
+--------------------------------------------------------
+2021-09-28 19:30:54		Current epoch:2
+Best Result:
+Recall@5:	33.3333	MRR@5:	25.8823	Epoch:	2,	2
+Recall@10:	37.2549	MRR@10:	26.4892	Epoch:	2,	2
+Recall@20:	47.0588	MRR@20:	27.1858	Epoch:	2,	2
+--------------------------------------------------------
+2021-09-28 19:30:55		Current epoch:3
+Best Result:
+Recall@5:	33.3333	MRR@5:	25.8823	Epoch:	3,	3
+Recall@10:	37.2549	MRR@10:	26.4892	Epoch:	3,	3
+Recall@20:	47.0588	MRR@20:	27.1858	Epoch:	3,	3
+--------------------------------------------------------
+2021-09-28 19:30:56		Current epoch:4
+Best Result:
+Recall@5:	33.3333	MRR@5:	25.8823	Epoch:	4,	4
+Recall@10:	37.2549	MRR@10:	26.4892	Epoch:	4,	4
+Recall@20:	47.0588	MRR@20:	27.1858	Epoch:	4,	4
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='cat', valid_portion=0.1, validation=False)
+2021-10-02 16:21:42		Current epoch:0
+Best Result:
+Recall@5:	5.88235	MRR@5:	3.33333	Epoch:	0,	0
+Recall@10:	9.80392	MRR@10:	3.87799	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	4.83792	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 16:21:43		Current epoch:1
+Best Result:
+Recall@5:	5.88235	MRR@5:	3.43137	Epoch:	1,	1
+Recall@10:	9.80392	MRR@10:	3.95424	Epoch:	1,	1
+Recall@20:	25.4901	MRR@20:	4.92069	Epoch:	0,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='cat', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='cat', valid_portion=0.1, validation=False)
+2021-10-02 16:22:52		Current epoch:0
+Best Result:
+Recall@5:	9.80392	MRR@5:	5.88235	Epoch:	0,	0
+Recall@10:	13.7254	MRR@10:	6.37254	Epoch:	0,	0
+Recall@20:	21.5686	MRR@20:	6.83618	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 16:22:54		Current epoch:1
+Best Result:
+Recall@5:	9.80392	MRR@5:	7.02614	Epoch:	1,	1
+Recall@10:	13.7254	MRR@10:	7.46187	Epoch:	1,	1
+Recall@20:	23.5294	MRR@20:	8.04562	Epoch:	1,	1
+--------------------------------------------------------
+2021-10-02 16:22:56		Current epoch:2
+Best Result:
+Recall@5:	9.80392	MRR@5:	7.02614	Epoch:	2,	2
+Recall@10:	13.7254	MRR@10:	7.46187	Epoch:	2,	2
+Recall@20:	23.5294	MRR@20:	8.06740	Epoch:	2,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='cat', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='cat', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 16:43:50		Current epoch:0
+Best Result:
+Recall@5:	17.6470	MRR@5:	9.15032	Epoch:	0,	0
+Recall@10:	25.4901	MRR@10:	10.0054	Epoch:	0,	0
+Recall@20:	29.4117	MRR@20:	10.3345	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 16:43:52		Current epoch:1
+Best Result:
+Recall@5:	17.6470	MRR@5:	9.15032	Epoch:	0,	0
+Recall@10:	25.4901	MRR@10:	10.0054	Epoch:	0,	0
+Recall@20:	31.3725	MRR@20:	10.3345	Epoch:	1,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:03:35		Current epoch:0
+Best Result:
+Recall@5:	15.6862	MRR@5:	12.2549	Epoch:	0,	0
+Recall@10:	23.5294	MRR@10:	13.3846	Epoch:	0,	0
+Recall@20:	33.3333	MRR@20:	14.0189	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:03:37		Current epoch:1
+Best Result:
+Recall@5:	17.6470	MRR@5:	12.8104	Epoch:	1,	1
+Recall@10:	23.5294	MRR@10:	13.4640	Epoch:	0,	1
+Recall@20:	33.3333	MRR@20:	14.0189	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:03:39		Current epoch:2
+Best Result:
+Recall@5:	17.6470	MRR@5:	12.8104	Epoch:	2,	2
+Recall@10:	23.5294	MRR@10:	13.4640	Epoch:	0,	2
+Recall@20:	33.3333	MRR@20:	14.0663	Epoch:	0,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:05:03		Current epoch:0
+Best Result:
+Recall@5:	7.84313	MRR@5:	3.92156	Epoch:	0,	0
+Recall@10:	9.80392	MRR@10:	4.24836	Epoch:	0,	0
+Recall@20:	25.4901	MRR@20:	5.40831	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:05:05		Current epoch:1
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.96732	Epoch:	1,	1
+Recall@10:	9.80392	MRR@10:	5.29411	Epoch:	1,	1
+Recall@20:	25.4901	MRR@20:	6.43069	Epoch:	1,	1
+--------------------------------------------------------
+2021-10-02 19:05:07		Current epoch:2
+Best Result:
+Recall@5:	7.84313	MRR@5:	4.96732	Epoch:	2,	2
+Recall@10:	9.80392	MRR@10:	5.29411	Epoch:	2,	2
+Recall@20:	25.4901	MRR@20:	6.43886	Epoch:	2,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:11:15		Current epoch:0
+Best Result:
+Recall@5:	31.3725	MRR@5:	23.9869	Epoch:	0,	0
+Recall@10:	39.2156	MRR@10:	25.0295	Epoch:	0,	0
+Recall@20:	45.0980	MRR@20:	25.3236	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:11:24		Current epoch:0
+Best Result:
+Recall@5:	21.5686	MRR@5:	18.5294	Epoch:	0,	0
+Recall@10:	27.4509	MRR@10:	19.2919	Epoch:	0,	0
+Recall@20:	39.2156	MRR@20:	19.9571	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:11:26		Current epoch:1
+Best Result:
+Recall@5:	21.5686	MRR@5:	18.6274	Epoch:	1,	1
+Recall@10:	27.4509	MRR@10:	19.4304	Epoch:	1,	1
+Recall@20:	41.1764	MRR@20:	20.2042	Epoch:	1,	1
+--------------------------------------------------------
+2021-10-02 19:11:27		Current epoch:2
+Best Result:
+Recall@5:	21.5686	MRR@5:	18.6274	Epoch:	2,	2
+Recall@10:	27.4509	MRR@10:	19.4304	Epoch:	2,	2
+Recall@20:	41.1764	MRR@20:	20.2223	Epoch:	2,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='add', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:13:47		Current epoch:0
+Best Result:
+Recall@5:	1.96078	MRR@5:	1.96078	Epoch:	0,	0
+Recall@10:	1.96078	MRR@10:	1.96078	Epoch:	0,	0
+Recall@20:	11.7647	MRR@20:	2.57565	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:13:49		Current epoch:1
+Best Result:
+Recall@5:	1.96078	MRR@5:	1.96078	Epoch:	1,	1
+Recall@10:	5.88235	MRR@10:	2.40196	Epoch:	1,	1
+Recall@20:	11.7647	MRR@20:	2.61534	Epoch:	0,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='add', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:15:21		Current epoch:0
+Best Result:
+Recall@5:	54.9019	MRR@5:	41.8954	Epoch:	0,	0
+Recall@10:	56.8627	MRR@10:	42.1405	Epoch:	0,	0
+Recall@20:	60.7843	MRR@20:	42.4002	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:15:23		Current epoch:1
+Best Result:
+Recall@5:	54.9019	MRR@5:	44.5098	Epoch:	1,	1
+Recall@10:	58.8235	MRR@10:	45.0544	Epoch:	1,	1
+Recall@20:	60.7843	MRR@20:	45.0544	Epoch:	0,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='add', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:15:38		Current epoch:0
+Best Result:
+Recall@5:	3.92156	MRR@5:	1.47058	Epoch:	0,	0
+Recall@10:	5.88235	MRR@10:	1.75070	Epoch:	0,	0
+Recall@20:	11.7647	MRR@20:	2.18026	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='sum', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='cat', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:16:04		Current epoch:0
+Best Result:
+Recall@5:	31.3725	MRR@5:	30.0653	Epoch:	0,	0
+Recall@10:	39.2156	MRR@10:	31.0535	Epoch:	0,	0
+Recall@20:	47.0588	MRR@20:	31.6137	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='ga', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='sum', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='max', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:27:26		Current epoch:0
+Best Result:
+Recall@5:	5.88235	MRR@5:	3.43137	Epoch:	0,	0
+Recall@10:	13.7254	MRR@10:	4.61017	Epoch:	0,	0
+Recall@20:	27.4509	MRR@20:	5.56252	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:27:28		Current epoch:1
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	1,	1
+Recall@10:	17.6470	MRR@10:	6.31185	Epoch:	1,	1
+Recall@20:	31.3725	MRR@20:	7.21001	Epoch:	1,	1
+--------------------------------------------------------
+2021-10-02 19:27:29		Current epoch:2
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	2,	2
+Recall@10:	17.6470	MRR@10:	6.31185	Epoch:	2,	2
+Recall@20:	33.3333	MRR@20:	7.31837	Epoch:	2,	2
+--------------------------------------------------------
+2021-10-02 19:27:31		Current epoch:3
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	3,	3
+Recall@10:	17.6470	MRR@10:	6.31185	Epoch:	3,	3
+Recall@20:	33.3333	MRR@20:	7.31837	Epoch:	3,	2
+--------------------------------------------------------
+2021-10-02 19:27:33		Current epoch:4
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	4,	4
+Recall@10:	17.6470	MRR@10:	6.31185	Epoch:	4,	4
+Recall@20:	33.3333	MRR@20:	7.31837	Epoch:	4,	2
+--------------------------------------------------------
+2021-10-02 19:27:35		Current epoch:5
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	5,	5
+Recall@10:	17.6470	MRR@10:	6.31185	Epoch:	5,	5
+Recall@20:	33.3333	MRR@20:	7.31837	Epoch:	5,	2
+--------------------------------------------------------
+2021-10-02 19:27:36		Current epoch:6
+Best Result:
+Recall@5:	5.88235	MRR@5:	4.57516	Epoch:	6,	6
+Recall@10:	17.6470	MRR@10:	6.31185	Epoch:	6,	6
+Recall@20:	33.3333	MRR@20:	7.31837	Epoch:	6,	2
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='max', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:27:42		Current epoch:0
+Best Result:
+Recall@5:	19.6078	MRR@5:	16.4705	Epoch:	0,	0
+Recall@10:	23.5294	MRR@10:	17.0774	Epoch:	0,	0
+Recall@20:	37.2549	MRR@20:	18.0187	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:28:00		Current epoch:0
+Best Result:
+Recall@5:	41.1764	MRR@5:	28.9215	Epoch:	0,	0
+Recall@10:	50.9803	MRR@10:	30.2069	Epoch:	0,	0
+Recall@20:	60.7843	MRR@20:	30.8407	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='max', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:28:14		Current epoch:0
+Best Result:
+Recall@5:	39.2156	MRR@5:	29.3790	Epoch:	0,	0
+Recall@10:	43.1372	MRR@10:	29.8770	Epoch:	0,	0
+Recall@20:	50.9803	MRR@20:	30.4332	Epoch:	0,	0
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:28:23		Current epoch:0
+Best Result:
+Recall@5:	13.7254	MRR@5:	6.69934	Epoch:	0,	0
+Recall@10:	19.6078	MRR@10:	7.57080	Epoch:	0,	0
+Recall@20:	31.3725	MRR@20:	8.36751	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:28:25		Current epoch:1
+Best Result:
+Recall@5:	13.7254	MRR@5:	9.01960	Epoch:	1,	1
+Recall@10:	21.5686	MRR@10:	10.1984	Epoch:	1,	1
+Recall@20:	31.3725	MRR@20:	10.7088	Epoch:	0,	1
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2021-10-02 19:28:35		Current epoch:0
+Best Result:
+Recall@5:	33.3333	MRR@5:	18.6928	Epoch:	0,	0
+Recall@10:	39.2156	MRR@10:	19.4335	Epoch:	0,	0
+Recall@20:	47.0588	MRR@20:	19.9640	Epoch:	0,	0
+--------------------------------------------------------
+2021-10-02 19:28:38		Current epoch:1
+Best Result:
+Recall@5:	35.2941	MRR@5:	24.6732	Epoch:	1,	1
+Recall@10:	41.1764	MRR@10:	25.3050	Epoch:	1,	1
+Recall@20:	49.0196	MRR@20:	25.8614	Epoch:	1,	1
+--------------------------------------------------------
+2021-10-02 19:28:39		Current epoch:2
+Best Result:
+Recall@5:	35.2941	MRR@5:	24.8366	Epoch:	2,	2
+Recall@10:	41.1764	MRR@10:	25.4684	Epoch:	2,	2
+Recall@20:	50.9803	MRR@20:	26.1280	Epoch:	2,	2
+--------------------------------------------------------
+2021-10-02 19:28:41		Current epoch:3
+Best Result:
+Recall@5:	35.2941	MRR@5:	24.8366	Epoch:	3,	3
+Recall@10:	41.1764	MRR@10:	25.4684	Epoch:	3,	3
+Recall@20:	50.9803	MRR@20:	26.1280	Epoch:	3,	3
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='none', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='cat', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2022-06-05 20:12:40		Current epoch:0
+Best Result:
+Recall@5:	21.5686	MRR@5:	10.9477	Epoch:	0,	0
+Recall@10:	29.4117	MRR@10:	12.0152	Epoch:	0,	0
+Recall@20:	41.1764	MRR@20:	12.7050	Epoch:	0,	0
+--------------------------------------------------------
+2022-06-05 20:12:41		Current epoch:1
+Best Result:
+Recall@5:	25.4901	MRR@5:	13.9542	Epoch:	1,	1
+Recall@10:	33.3333	MRR@10:	14.9751	Epoch:	1,	1
+Recall@20:	41.1764	MRR@20:	15.4337	Epoch:	1,	1
+--------------------------------------------------------
+2022-06-05 20:12:42		Current epoch:2
+Best Result:
+Recall@5:	25.4901	MRR@5:	14.4444	Epoch:	2,	2
+Recall@10:	33.3333	MRR@10:	15.4652	Epoch:	2,	2
+Recall@20:	41.1764	MRR@20:	15.9291	Epoch:	2,	2
+--------------------------------------------------------
+2022-06-05 20:12:43		Current epoch:3
+Best Result:
+Recall@5:	25.4901	MRR@5:	14.4444	Epoch:	3,	3
+Recall@10:	33.3333	MRR@10:	15.4925	Epoch:	3,	3
+Recall@20:	41.1764	MRR@20:	15.9563	Epoch:	3,	3
+--------------------------------------------------------
+2022-06-05 20:12:44		Current epoch:4
+Best Result:
+Recall@5:	25.4901	MRR@5:	14.4444	Epoch:	4,	4
+Recall@10:	33.3333	MRR@10:	15.4925	Epoch:	4,	4
+Recall@20:	41.1764	MRR@20:	15.9563	Epoch:	4,	4
+--------------------------------------------------------
+2022-06-05 20:12:44		Current epoch:5
+Best Result:
+Recall@5:	25.4901	MRR@5:	14.4444	Epoch:	5,	5
+Recall@10:	33.3333	MRR@10:	15.4925	Epoch:	5,	5
+Recall@20:	41.1764	MRR@20:	15.9563	Epoch:	5,	5
+--------------------------------------------------------
+2022-06-05 20:12:45		Current epoch:6
+Best Result:
+Recall@5:	25.4901	MRR@5:	14.4444	Epoch:	6,	6
+Recall@10:	33.3333	MRR@10:	15.4925	Epoch:	6,	6
+Recall@20:	41.1764	MRR@20:	15.9563	Epoch:	6,	6
+--------------------------------------------------------
+2022-06-05 20:12:46		Current epoch:7
+Best Result:
+Recall@5:	25.4901	MRR@5:	14.4444	Epoch:	7,	7
+Recall@10:	33.3333	MRR@10:	15.4925	Epoch:	7,	7
+Recall@20:	41.1764	MRR@20:	15.9563	Epoch:	7,	7
+--------------------------------------------------------
+Namespace(batchSize=100, dataset='sample', epoch=11, fus='gate', hiddenSize=256, l2=1e-05, lr=0.001, lr_dc=0.1, lr_dc_step=1, memory_size=512, patience=10, pos='rp', sigma=12, step=3, time='add', valid_portion=0.1, validation=False)
+2022-06-05 20:41:50		Current epoch:0
+Best Result:
+Recall@5:	37.2549	MRR@5:	28.4967	Epoch:	0,	0
+Recall@10:	41.1764	MRR@10:	28.9379	Epoch:	0,	0
+Recall@20:	62.7450	MRR@20:	30.4458	Epoch:	0,	0
+--------------------------------------------------------
+2022-06-05 20:41:51		Current epoch:1
+Best Result:
+Recall@5:	37.2549	MRR@5:	28.8235	Epoch:	1,	1
+Recall@10:	47.0588	MRR@10:	29.9564	Epoch:	1,	1
+Recall@20:	64.7058	MRR@20:	31.1061	Epoch:	1,	1
+--------------------------------------------------------
